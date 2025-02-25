@@ -28,6 +28,6 @@ def generate_json_for_characters(directory, characters, output_file):
 
 # Example usage
 directory = 'D:\Github projects\hanzi-writer-data\data'
-characters = ['一', '二', '三']
+characters = ['黄', '诗', '雅']
 output_file = 'generated_characters.json'
 generate_json_for_characters(directory, characters, output_file)
